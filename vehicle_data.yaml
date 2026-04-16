@@ -1,0 +1,14 @@
+
+path: 'C:/Users/LOQ/OneDrive/Desktop/Machine Learning/car data/archive (1)/Vehicles'
+train: train/images
+val: val/images
+
+names:
+  0: Bike
+  1: Car
+  2: boat
+  3: bus
+  4: other
+  5: plane
+  6: tank
+  7: train
